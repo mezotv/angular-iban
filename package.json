@@ -1,6 +1,6 @@
 {
   "name": "angular-iban",
-  "version": "20.0.0",
+  "version": "20.0.1",
   "scripts": {
     "ng": "ng",
     "start": "ng serve -o",
@@ -21,7 +21,7 @@
     "@angular/platform-browser": "20.0.3",
     "@angular/platform-browser-dynamic": "20.0.3",
     "@angular/router": "20.0.3",
-    "@rivo-gg/geld": "0.0.45",
+    "@rivo-gg/geld": "0.0.54",
     "rxjs": "7.8.1",
     "tslib": "2.6.1",
     "zone.js": "0.15.0"
